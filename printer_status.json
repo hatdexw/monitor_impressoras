@@ -1,0 +1,34 @@
+[
+    {
+        "url": "http://10.124.72.22/cgi-bin/dynamic/printer/PrinterStatus.html",
+        "toner_status": "Cartucho Preto  ~2%",
+        "bandejas_status": "OK",
+        "kit_manutencao": "46%",
+        "kit_rolo": "65%",
+        "unid_imagem": "1%"
+    },
+    {
+        "url": "http://10.124.72.24/cgi-bin/dynamic/printer/PrinterStatus.html",
+        "toner_status": "Cartucho Preto  ~34%",
+        "bandejas_status": "OK",
+        "kit_manutencao": "12%",
+        "kit_rolo": "49%",
+        "unid_imagem": "64%"
+    },
+    {
+        "url": "http://10.124.72.21/cgi-bin/dynamic/printer/PrinterStatus.html",
+        "toner_status": "Cartucho Preto  ~42%",
+        "bandejas_status": "OK",
+        "kit_manutencao": "32%",
+        "kit_rolo": "64%",
+        "unid_imagem": "21%"
+    },
+    {
+        "url": "http://10.124.72.23/cgi-bin/dynamic/printer/PrinterStatus.html",
+        "toner_status": "Cartucho Preto  ~22%",
+        "bandejas_status": "OK",
+        "kit_manutencao": "58%",
+        "kit_rolo": "",
+        "unid_imagem": "69%"
+    }
+]
